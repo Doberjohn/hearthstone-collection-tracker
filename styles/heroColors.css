@@ -1,0 +1,368 @@
+/** ALL **/
+.border-all {
+    border: 2px solid #939393;
+}
+
+.bg-all {
+    background-color:#bdbdbd;
+}
+
+.btn-all {
+    background-color: rgba(189, 189, 189, .9);
+    color: #ffffff;
+}
+
+.btn-all:hover {
+    background-color: #bdbdbd;
+    color: #ffffff;
+}
+
+.btn-all_outline {
+    border-color: #939393;
+    outline: #939393;
+    color: #939393;
+}
+
+.btn-all_outline:hover {
+    border-color: #bdbdbd;
+    background: #bdbdbd;
+    color: #ffffff;
+}
+
+/** NEUTRAL **/
+.border-neutral {
+    border: 2px solid #938378;
+}
+
+.bg-neutral {
+    background-color: #736358;
+}
+
+.btn-neutral {
+    background-color: rgba(115, 99, 88, .9);
+    color: #ffffff;
+}
+
+.btn-neutral:hover {
+    background-color: #736358;
+    color: #ffffff;
+}
+
+.btn-neutral_outline {
+    border-color: #938378;
+    outline: #938378;
+    color: #938378;
+}
+
+.btn-neutral_outline:hover {
+    border-color: #736358;
+    background: #736358;
+    color: #ffffff;
+}
+
+/** DEMON HUNTER **/
+.border-demonhunter {
+    border: 2px solid #599E0F;
+}
+
+.bg-demonhunter {
+    background-color: #4F7747;
+}
+
+.btn-demonhunter {
+    background-color: rgba(79, 119, 71, .9);
+    color: #ffffff;
+}
+
+.btn-demonhunter:hover {
+    background-color: #4F7747;
+    color: #ffffff;
+}
+
+.btn-demonhunter_outline {
+    border-color: #599E0F;
+    outline: #599E0F;
+    color: #599E0F;
+}
+
+.btn-demonhunter_outline:hover {
+    border-color: #4F7747;
+    background: #4F7747;
+    color: #ffffff;
+}
+
+/** DRUID **/
+.border-druid {
+    border: 2px solid #C59C73;
+}
+
+.bg-druid {
+    background-color: #855C33;
+    color: #ffffff;
+}
+
+
+.btn-druid {
+    background-color: rgba(132, 92, 51, .9);
+    color: #ffffff;
+}
+
+.btn-druid:hover {
+    background-color: #855C33;
+    color: #ffffff;
+}
+
+.btn-druid_outline {
+    border-color: #C59C73;
+    outline: #C59C73;
+    color: #C59C73;
+}
+
+.btn-druid_outline:hover {
+    border-color: #855C33;
+    background: #855C33;
+    color: #ffffff;
+}
+
+/** HUNTER **/
+.border-hunter {
+    border: 2px solid #90B040;
+}
+.bg-hunter {
+    background-color: #709020;
+    color: #ffffff;
+}
+
+.btn-hunter {
+    background-color: rgba(112, 144, 32, .9);
+    color: #ffffff;
+}
+
+.btn-hunter:hover {
+    background-color: #709020;
+    color: #ffffff;
+}
+
+.btn-hunter_outline {
+    border-color: #90B040;
+    outline: #90B040;
+    color: #90B040;
+}
+
+.btn-hunter_outline:hover {
+    border-color: #709020;
+    background: #709020;
+    color: #ffffff;
+}
+
+/** MAGE **/
+.border-mage {
+    border: 2px solid #A0D2FF;
+}
+
+.bg-mage {
+    background-color: #80B2FF;
+    color: #ffffff;
+}
+
+.btn-mage {
+    background-color: rgba(128, 178, 255, .9);
+    color: #ffffff;
+}
+
+.btn-mage:hover {
+    background-color: #80B2FF;
+    color: #ffffff;
+}
+
+.btn-mage_outline {
+    border-color: #A0D2FF;
+    outline: #A0D2FF;
+    color: #A0D2FF;
+}
+
+.btn-mage_outline:hover {
+    border-color: #80B2FF;
+    background: #80B2FF;
+    color: #ffffff;
+}
+
+/** PALADIN **/
+.border-paladin {
+    border: 2px solid #FBE86D;
+}
+
+.bg-paladin {
+    background-color: #EBC84D;
+    color: #ffffff;
+}
+
+.btn-paladin {
+    background-color: rgba(235, 200, 77, .9);
+    color: #ffffff;
+}
+
+.btn-paladin:hover {
+    background-color: #EBC84D;
+    color: #ffffff;
+}
+
+.btn-paladin_outline {
+    border-color: #FBE86D;
+    outline: #FBE86D;
+    color: #FBE86D;
+}
+
+.btn-paladin_outline:hover {
+    border-color: #EBC84D;
+    background: #EBC84D;
+    color: #ffffff;
+}
+
+/** PRIEST **/
+.border-priest {
+    border: 2px solid #DDDDDD;
+}
+
+.bg-priest {
+    background-color: #F7FAFA;
+    color: #ffffff;
+}
+
+.btn-priest {
+    background-color: rgba(247, 250, 250, .9);
+    color: #000000;
+}
+
+.btn-priest:hover {
+    background-color: #F7FAFA;
+    color: #000000;
+}
+
+/** ROGUE **/
+.border-rogue {
+    border: 2px solid #3C3C3C;
+}
+
+.bg-rogue {
+    background-color: #1C1C1C;
+    color: #ffffff;
+}
+
+.btn-rogue {
+    background-color: rgba(26, 26, 26, .9);
+    color: #ffffff;
+}
+
+.btn-rogue:hover {
+    background-color: #1C1C1C;
+    color: #ffffff;
+}
+
+.btn-rogue_outline {
+    border-color: #3C3C3C;
+    outline: #3C3C3C;
+    color: #3C3C3C;
+}
+
+.btn-rogue_outline:hover {
+    border-color: #1C1C1C;
+    background: #1C1C1C;
+    color: #ffffff;
+}
+
+/** SHAMAN **/
+.border-shaman {
+    border: 2px solid #3939A7;
+}
+
+.bg-shaman {
+    background-color: #191987;
+    color: #ffffff;
+}
+
+.btn-shaman {
+    background-color: rgba(25, 25, 135, .9);
+    color: #ffffff;
+}
+
+.btn-shaman:hover {
+    background-color: #191987;
+    color: #ffffff;
+}
+
+.btn-shaman_outline {
+    border-color: #3939A7;
+    outline: #3939A7;
+    color: #3939A7;
+}
+
+.btn-shaman_outline:hover {
+    border-color: #191987;
+    background: #191987;
+    color: #ffffff;
+}
+
+/** WARLOCK **/
+.border-warlock {
+    border: 2px solid #672067;
+}
+
+.bg-warlock {
+    background-color: #470047;
+    color: #ffffff;
+}
+
+.btn-warlock {
+    background-color: rgba(71, 0, 71, .9);
+    color: #ffffff;
+}
+
+.btn-warlock:hover {
+    background-color: #470047;
+    color: #ffffff;
+}
+
+.btn-warlock_outline {
+    border-color: #672067;
+    outline: #672067;
+    color: #672067;
+}
+
+.btn-warlock_outline:hover {
+    border-color: #470047;
+    background: #470047;
+    color: #ffffff;
+}
+
+/** WARRIOR **/
+.border-warrior {
+    border: 2px solid #8B2020;
+}
+
+.bg-warrior {
+    background-color: #6B0000;
+    color: #ffffff;
+}
+
+.btn-warrior {
+    background-color: rgba(107, 0, 0, .9);
+    color: #ffffff;
+}
+
+.btn-warrior:hover {
+    background-color: #6B0000;
+    color: #ffffff;
+}
+
+.btn-warrior_outline {
+    border-color: #8B2020;
+    outline: #8B2020;
+    color: #8B2020;
+}
+
+.btn-warrior_outline:hover {
+    border-color: #6B0000;
+    background: #6B0000;
+    color: #ffffff;
+}
