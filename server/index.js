@@ -31,7 +31,7 @@ let cardCollection = {
 
 dbConnection.connect(function (err) {
    if (err) throw err;
-   console.log("Connected to Hearthstone Deck Tracker Database!");
+   console.log("Connected to Hearthstone Collection Tracker Database!");
 });
 
 var jsonParser = bodyParser.json();
@@ -134,4 +134,4 @@ function toEmptyString(value) {
    else return value;
 }
 
-app.listen(port, () => console.log("Started Hearthstone Deck Tracker server!"));
+app.listen(port, () => console.log("Started Hearthstone Collection Tracker server!"));
